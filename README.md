@@ -5,8 +5,9 @@ Projeto desenvolvido durante curso Alura ONE. Uma aplicação para sorteio onlin
 - Adicionar nomes e e-mail de amigos a uma lista.
 - Validação dinâmica dos campos de nome e e-mail.
 - Sorteio automático de amigo secreto.
-- Envio do resultado do sorteio para o e-mail cadastrado. (Função Não implementada). 
-Observação: O envio de emails não pode ser feito apenas com JavaScript puro no navegador, pois isso exige um backend ou serviço de terceiros (como EmailJS, SMTP, etc). Deixei no código a estrutura para usar SMTP como exemplo, pois ele permite enviar emails diretamente do frontend.
+- Envio do resultado do sorteio para o e-mail cadastrado. (Função Não implementada).
+  Observação: O envio de emails não pode ser feito apenas com JavaScript puro no navegador, pois isso exige um backend ou serviço de terceiros (como EmailJS, SMTP, etc).
+  Deixei no código a Função para enviar email usando EmailJS, pois ele permite enviar emails diretamente do frontend.
 
 # Como usar
 1. Clone este repositório:
